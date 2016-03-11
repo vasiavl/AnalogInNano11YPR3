@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //комитим из локалки ух ты стра
 // еще клмитим из локалки кое как добавляем из локалки в 1 вктвь
 <<<<<<< HEAD
@@ -14,10 +15,15 @@
 //  
 >>>>>>> parent of 23a9849... в перца
 =======
+=======
+>>>>>>> parent of f5dc9c7... Update AnalogInNano11YPR3.ino
 //комитим из локалки ух ты стра
 // еще клмитим из локалки кое как добавляем из локалки в 1 вктвь
 // теперь сохраним в перца
 //  я же умный очень
+<<<<<<< HEAD
+>>>>>>> parent of f5dc9c7... Update AnalogInNano11YPR3.ino
+=======
 >>>>>>> parent of f5dc9c7... Update AnalogInNano11YPR3.ino
 #define Button_1      2//8
  #define Button_2      12//13
@@ -210,6 +216,7 @@ Serial.print("\t tvistFlag=") ;
   
   delay(2550);   
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 //веткаВ
@@ -412,6 +419,8 @@ Serial.print("\t tvistFlag=") ;
   delay(2550);   
 
 >>>>>>> origin/master
+=======
+>>>>>>> parent of f5dc9c7... Update AnalogInNano11YPR3.ino
 =======
 >>>>>>> parent of f5dc9c7... Update AnalogInNano11YPR3.ino
 }
